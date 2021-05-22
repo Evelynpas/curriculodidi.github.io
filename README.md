@@ -1,2 +1,2 @@
-# curriculodidi.github.io
+# didimemorial.github.io
 Curriculo dids
