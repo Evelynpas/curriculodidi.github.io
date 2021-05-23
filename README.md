@@ -1,2 +1,2 @@
-# evelynpas.github.io
+# curriculo-didi.github.io
 Curriculo dids
