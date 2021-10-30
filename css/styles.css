@@ -10984,3 +10984,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.bi {
+  font-size: 46px;
+}
+.bi:hover {
+  color: rgb(144, 146, 116);
+  }
