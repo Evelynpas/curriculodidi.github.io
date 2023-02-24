@@ -36,7 +36,14 @@
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
-
+#footer {
+  background-color: #2E8B57;
+}
+#footer p {
+  color: white;
+  text-align: center;
+  margin-bottom: -2px;
+}
 *,
 *::before,
 *::after {
@@ -209,7 +216,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #025f07;
   text-decoration: underline;
 }
 a:hover {
@@ -7336,7 +7343,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #bd5d38 !important;
+  color: #2E8B57 !important;
 }
 
 .text-secondary {
@@ -7392,7 +7399,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #2E8B57 !important;
 }
 
 .bg-secondary {
